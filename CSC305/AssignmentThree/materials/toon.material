@@ -1,0 +1,4 @@
+vertex toon.vert
+fragment toon.frag
+texture colormap.png
+bumpmap displacement.png
